@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/textbubbles/.github/main/icon-512.png" alt="TextBubbles" width="120" />
+  <img src="https://raw.githubusercontent.com/textbubbles/.github/main/logo.png" alt="TextBubbles" width="120" />
 </p>
 
 <h1 align="center">TextBubbles</h1>
@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://textbubbles.com">Website</a> •
   <a href="https://docs.textbubbles.com">Documentation</a> •
-  <a href="https://github.com/textbubbles/js">SDK</a>
+  <a href="https://github.com/textbubbles/js">SDK</a> •
+  <a href="https://status.textbubbles.com">Status</a>
 </p>
 
 ---

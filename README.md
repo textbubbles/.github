@@ -1,6 +1,17 @@
-# TextBubbles 💬
+<p align="center">
+  <img src="https://raw.githubusercontent.com/textbubbles/.github/main/icon-512.png" alt="TextBubbles" width="120" />
+</p>
 
-**iMessage API for developers. Send blue bubbles at scale.**
+<h1 align="center">TextBubbles</h1>
+<p align="center"><strong>iMessage API for developers. Send blue bubbles at scale.</strong></p>
+
+<p align="center">
+  <a href="https://textbubbles.com">Website</a> •
+  <a href="https://docs.textbubbles.com">Documentation</a> •
+  <a href="https://github.com/textbubbles/js">SDK</a>
+</p>
+
+---
 
 ## What is TextBubbles?
 
@@ -26,24 +37,27 @@ await client.messages.send({
 });
 ```
 
-## Links
-
-- 🌐 [Website](https://textbubbles.com)
-- 📚 [Documentation](https://docs.textbubbles.com)
-- 📦 [JavaScript SDK](https://github.com/textbubbles/js)
-- 🔌 [API Reference](https://docs.textbubbles.com/api-reference)
-
 ## Features
 
-- 💬 **iMessage & SMS** - Auto-fallback to SMS for Android
-- 📸 **Rich Media** - Images, carousels, voice memos
-- ⏰ **Scheduled Messages** - Send later with precision
-- 💳 **Payment Requests** - Request Apple Cash via iMessage
-- 👥 **Group Chats** - Create and manage conversations
-- 🔔 **Webhooks** - Real-time delivery & read receipts
-- ❤️ **Reactions** - Send tapback reactions (love, like, etc.)
-- ✨ **Effects** - Confetti, fireworks, lasers, and more
+| Feature | Description |
+|---------|-------------|
+| 💬 **iMessage & SMS** | Auto-fallback to SMS for Android |
+| 📸 **Rich Media** | Images, carousels, voice memos |
+| ⏰ **Scheduled Messages** | Send later with precision |
+| 💳 **Payment Requests** | Request Apple Cash via iMessage |
+| 👥 **Group Chats** | Create and manage conversations |
+| 🔔 **Webhooks** | Real-time delivery & read receipts |
+| ❤️ **Reactions** | Tapback reactions (love, like, etc.) |
+| ✨ **Effects** | Confetti, fireworks, lasers, and more |
+
+## Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [textbubbles/js](https://github.com/textbubbles/js) | Official JavaScript/TypeScript SDK |
+| [textbubbles/docs](https://github.com/textbubbles/docs) | API Documentation |
+| [textbubbles/landing](https://github.com/textbubbles/landing) | textbubbles.com website |
 
 ---
 
-*Built with 💙 by the TextBubbles team*
+<p align="center">Built with 💙</p>

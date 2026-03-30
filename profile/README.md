@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-textbubbles.com-007AFF?style=flat-square)](https://textbubbles.com)
 [![Docs](https://img.shields.io/badge/Docs-docs.textbubbles.com-007AFF?style=flat-square)](https://docs.textbubbles.com)
-[![npm](https://img.shields.io/npm/v/@textbubbles/sdk?style=flat-square&color=007AFF)](https://www.npmjs.com/package/@textbubbles/sdk)
+[![npm](https://img.shields.io/npm/v/@textbubbles/sdk?style=flat-square&color=007AFF)](https://www.npmjs.com/package/@textbubbles/js)
 
 </div>
 
